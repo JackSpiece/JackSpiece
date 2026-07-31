@@ -22,7 +22,6 @@ A read-only GitHub Action and Python CLI that turns pull request metadata into t
 - [Migrate the static UI to Tailwind CSS v4](https://github.com/msoedov/agentic_security/pull/301)
 - [Remove obsolete Agno artifacts](https://github.com/msoedov/agentic_security/pull/313)
 - [Remove the retired MCP server and client](https://github.com/msoedov/agentic_security/pull/314)
-- [Fix wildcard CORS with credentials](https://github.com/msoedov/agentic_security/pull/320)
 
 ## Current focus
 
